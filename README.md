@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hey there, I’m B V HITESH SAI
+CSE Student | Python Enjoyer | Cloud Explorer | Occasional Bug Creator
+🚀 About Me
 
-<!--
-**Hiteshsai007/Hiteshsai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Completed Harvard’s CS50P (yes, Python and I are besties now)
+☁️ Currently grinding for the AWS Cloud Practitioner
+💻 Love backend dev, cloud tech, and building things that hopefully don’t break
+🔧 Debugging skills: 10/10 (because I create the bugs too)
+🎮 When I’m not coding, I’m gaming or pretending to be productive
 
-Here are some ideas to get you started:
+🛠️ Tech Vibes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, C, HTML/CSS
+Learning: AWS, backend development
+Hobbies: Breaking things → fixing them → calling it “learning”
+
+🌟 Fun Fact
+
+My code works 80% of the time.
+The other 20% is “mysterious behavior.”
+
+📫 Hit Me Up
+
+If you see a cool project here… thanks, I probably worked on it way too late at night.
