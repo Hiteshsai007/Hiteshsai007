@@ -38,7 +38,7 @@ The other 20% is “mysterious behavior.”
 
 If you see a cool project here… thanks, I probably worked on it way too late at night.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
