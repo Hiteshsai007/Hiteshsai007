@@ -2,12 +2,6 @@
 
 # B V Hitesh Sai
 
-```
-$ whoami
-```
-
-**CS student · Apache Maven contributor · building toward GSoC, research, and grad school**
-
 </div>
 
 <br>
@@ -30,5 +24,4 @@ $ whoami
 <br>
 
 <div align="center">
-<sub><code>$ █</code></sub>
 </div>
