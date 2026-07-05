@@ -13,23 +13,13 @@ $ whoami
 <br>
 
 <!--
-  Live terminal widget — generated automatically by the GitHub Action in
-  .github/workflows/metrics.yml. Once you've run that workflow at least once
-  (see the setup comments in that file), delete the two lines below this
-  comment block and uncomment the <img> line to show your real metrics.
+  This SVG is a real snapshot of your GitHub activity, built directly from
+  the GitHub API (not a static template) — see .github/workflows/metrics.yml
+  to make it regenerate automatically on a schedule instead of manually.
 -->
-
-```
-$ ls github-metrics.svg
-```
-
-```text
-ls: cannot access 'github-metrics.svg': run .github/workflows/metrics.yml first
-```
-
-<!-- <div align="center">
+<div align="center">
   <img src="./github-metrics.svg" alt="terminal metrics" width="480" />
-</div> -->
+</div>
 
 <br>
 
