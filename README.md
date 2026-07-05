@@ -1,77 +1,152 @@
-👋 Hey there !!
+<div align="center">
 
-I’m B V HITESH SAI
+# B V Hitesh Sai
 
-CSE Student | Python Enjoyer | Cloud Explorer | Occasional Bug Creator
+```
+$ whoami
+```
 
+**CS student · Apache Maven contributor · building toward GSoC, research, and grad school**
 
-🚀 About Me
+</div>
 
-🎓 Completed Harvard’s CS50P (yes, Python and I are besties now)
+<br>
 
-☁️ Currently grinding for the AWS Cloud Practitioner
+<!--
+  Live terminal widget — generated automatically by the GitHub Action in
+  .github/workflows/metrics.yml (see that file for one-time setup).
+  Once the action has run at least once with your METRICS_TOKEN secret set,
+  this will show YOUR real GitHub activity in this exact terminal style.
+-->
+<div align="center">
+  <img src="./github-metrics.svg" alt="terminal metrics" width="480" />
+</div>
 
-💻 Love backend dev, cloud tech, and building things that hopefully don’t break
+<br>
 
-🔧 Debugging skills: 10/10 (because I create the bugs too)
+```
+$ cat about.md
+```
 
-🎮 When I’m not coding, I’m gaming or pretending to be productive
+I'm a Computer Science student in India who spends more time reading dependency-resolution
+code than tutorials. I got into open source because I wanted to understand how large,
+production-grade codebases actually work — Apache Maven is the one that stuck.
 
+I care about the unglamorous parts: tracing execution through five layers of abstraction
+before writing a line, understanding *why* a build system makes the choices it does, and
+getting a PR right rather than getting it fast.
 
-🛠️ Tech Vibes
+<br>
 
-Languages: Python, C, HTML/CSS
+```
+$ cat current-focus.md
+```
 
-Learning: AWS, backend development
+```text
+role      Computer Science student, Sai Vidya Institute of Technology (VTU)
+project   maven-dependency-tracker-plugin — dependency usage tracking for Maven 4
+status    iterating on design, shipping PRs, engaging on dev@maven.apache.org
+```
 
-Hobbies: Breaking things → fixing them → calling it “learning”
+<br>
 
+```
+$ git log --oneline --all -- apache/maven
+```
 
-🌟 Fun Fact
+```text
+12260  merged     <!-- one-line description -->
+12332  in review  feat: executable() profile activation function
+12369  in review  <!-- one-line description -->
+```
 
-My code works 80% of the time.
+**Currently in progress**
+- Proposal to add in-memory dependency-usage tracking to the Maven resolver, plus a new SPI
+  so packaging plugins (WAR as MVP) can report include/exclude decisions
+- Analysis of stale branches across `apache/maven`, findings prepared for maintainers (issue `#11858`)
 
-The other 20% is “mysterious behavior.”
+Getting a PR merged into Maven means convincing committers who've maintained the codebase
+for over a decade. Every contribution here has to earn its place — that's exactly why it's
+worth doing.
 
+<br>
 
-📫 Hit Me Up
+```
+$ ls featured-projects/
+```
 
-If you see a cool project here… thanks, I probably worked on it way too late at night.
+<!-- TODO: swap in your best repos, one line each -->
+```text
+maven-dependency-tracker-plugin/    Maven 4 plugin tracking used vs. declared dependencies
+network-packet-routing-visualizer/  Dijkstra's-based visualizer, algorithms coursework
+<project-name>/                     <one-line description>
+```
 
-<h3 align="center">A passionate backend developer from India</h3>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+```
+$ cat stack.json
+```
 
-<table>
-<tr>
-<td><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a></td>
-<td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a></td>
-<td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
-</tr>
+<div align="center">
 
-<tr>
-<td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a></td>
-<td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
-<td><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/></a></td>
-<td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-</tr>
+![Java](https://img.shields.io/badge/-Java-1a1b26?style=flat-square&logo=openjdk&logoColor=e0af68)
+![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat-square&logo=python&logoColor=7aa2f7)
+![C](https://img.shields.io/badge/-C-1a1b26?style=flat-square&logo=c&logoColor=9ece6a)
+![Maven](https://img.shields.io/badge/-Maven-1a1b26?style=flat-square&logo=apachemaven&logoColor=f7768e)
+![Git](https://img.shields.io/badge/-Git-1a1b26?style=flat-square&logo=git&logoColor=f7768e)
+![Linux](https://img.shields.io/badge/-Linux-1a1b26?style=flat-square&logo=linux&logoColor=c0caf5)
+![Docker](https://img.shields.io/badge/-Docker-1a1b26?style=flat-square&logo=docker&logoColor=7aa2f7)
+![AWS](https://img.shields.io/badge/-AWS-1a1b26?style=flat-square&logo=amazonaws&logoColor=e0af68)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=9ece6a)
 
-<tr>
-<td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
-<td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
-</tr>
+</div>
 
-<tr>
-<td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
-<td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
-<td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a></td>
-<td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a></td>
-</tr>
-</table>
+<br>
+
+```
+$ cat goals.md
+```
+
+```text
+[ ] more merged PRs into Apache Maven, deeper into resolver/build-lifecycle internals
+[ ] Google Summer of Code — Apache Software Foundation
+[ ] LFX Mentorship
+[ ] first research paper, likely growing out of the dependency-tracking work
+[ ] strong SWE internship — infra / developer tooling
+[ ] Master's — UC Berkeley / UCLA / Georgia Tech / USC or similar
+[ ] long-term: build something of my own, take it through Y Combinator
+```
+
+<br>
+
+```
+$ tail -f fun-facts.log
+```
+
+```text
+> commit history has more "fix typo in comment" entries than I'd like to admit
+> corrected more assumptions by Apache committers in 4 months than in 4 years of coursework
+> now reads mailing-list threads for fun — growth or red flag, unclear
+```
+
+<br>
+
+```
+$ cat contact.txt
+```
+
+<div align="center">
+
+<!-- TODO: fill in real links -->
+[![Email](https://img.shields.io/badge/-Email-1a1b26?style=flat-square&logo=gmail&logoColor=f7768e)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7)](#)
+[![dev@maven.apache.org](https://img.shields.io/badge/-Maven_Dev_List-1a1b26?style=flat-square&logo=apache&logoColor=e0af68)](https://lists.apache.org/list.html?dev@maven.apache.org)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><code>$ █</code></sub>
+</div>
