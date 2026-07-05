@@ -14,13 +14,22 @@ $ whoami
 
 <!--
   Live terminal widget — generated automatically by the GitHub Action in
-  .github/workflows/metrics.yml (see that file for one-time setup).
-  Once the action has run at least once with your METRICS_TOKEN secret set,
-  this will show YOUR real GitHub activity in this exact terminal style.
+  .github/workflows/metrics.yml. Once you've run that workflow at least once
+  (see the setup comments in that file), delete the two lines below this
+  comment block and uncomment the <img> line to show your real metrics.
 -->
-<div align="center">
+
+```
+$ ls github-metrics.svg
+```
+
+```text
+ls: cannot access 'github-metrics.svg': run .github/workflows/metrics.yml first
+```
+
+<!-- <div align="center">
   <img src="./github-metrics.svg" alt="terminal metrics" width="480" />
-</div>
+</div> -->
 
 <br>
 
@@ -55,9 +64,9 @@ $ git log --oneline --all -- apache/maven
 ```
 
 ```text
-12260  merged     <!-- one-line description -->
+12260  merged     [add one-line description]
 12332  in review  feat: executable() profile activation function
-12369  in review  <!-- one-line description -->
+12369  in review  [add one-line description]
 ```
 
 **Currently in progress**
@@ -79,7 +88,7 @@ $ ls featured-projects/
 ```text
 maven-dependency-tracker-plugin/    Maven 4 plugin tracking used vs. declared dependencies
 network-packet-routing-visualizer/  Dijkstra's-based visualizer, algorithms coursework
-<project-name>/                     <one-line description>
+[project-name]/                     [one-line description]
 ```
 
 <br>
