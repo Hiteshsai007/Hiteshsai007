@@ -1,8 +1,3 @@
-<div align="center">
-
-# B V Hitesh Sai
-
-</div>
 
 <br>
 
