@@ -28,8 +28,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           extras_css: |
-            .isocalendar svg path {
-              filter: sepia(1) saturate(6) hue-rotate(80deg) brightness(0.95);
+            .isocalendar svg {
+              filter: none !important;
             }
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
